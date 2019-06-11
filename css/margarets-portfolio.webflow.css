@@ -444,7 +444,7 @@ p {
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   font-family: Karla, sans-serif;
-  color: #000;
+  color: #808080;
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 1px;
@@ -456,7 +456,7 @@ p {
   opacity: 1;
   -webkit-transition: none 0ms ease;
   transition: none 0ms ease;
-  color: #f62681);
+  color: #f62681;
   letter-spacing: 1px;
   text-decoration: none;
 }
@@ -1136,7 +1136,7 @@ p {
 
 .social-icons:hover {
   padding: 5px;
-  background-color: #f62681;
+  color: #f62681;
 }
 
 .social-text {
@@ -2042,7 +2042,7 @@ html.w-mod-js *[data-ix="grow-skills-level-4"] {
     text-align: center;
   }
   .nav-link:hover {
-    background-color: rgba(219, 169, 75, 0.2);
+    color: #f62681;
   }
   .nav-link.w--current {
     display: inline-block;
@@ -2418,7 +2418,7 @@ html.w-mod-js *[data-ix="grow-skills-level-4"] {
     border-radius: 5px;
   }
   .nav-link:hover {
-    background-color: hsla(0, 0%, 100%, 0.09);
+    background-color: #f62681;
   }
   .nav-link.w--current {
     display: block;
