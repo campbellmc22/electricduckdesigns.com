@@ -1230,29 +1230,29 @@ p {
   width: 100%;
   height: 300px;
   margin-top: 20px;
-  background-image: url('../images/549ab367f47d5502d2373cddcfab7218.jpg');
+  background-image: url('../images/chicktech.png');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .portfolio-post.second {
-  background-image: url('../images/shutterstock_114454435-compressed-600x600.jpg');
+  background-image: url('../images/article.jpg');
 }
 
 .portfolio-post.third {
-  background-image: url('../images/rcaNUh3pQ9GD8w7Iy8qE__DSC0940-600x600.jpg');
+  background-image: url('../images/doi.png');
 }
 
 .portfolio-post.fourth {
-  background-image: url('../images/Paper-Presentation-Mockup-vol-5-627x470.jpg');
+  background-image: url('../images/help-center-redesign-img.png');
 }
 
 .portfolio-post.fifth {
-  background-image: url('../images/shutterstock_167429915-compressed-600x600.jpg');
+  background-image: url('../images/nhmla.PNG');
 }
 
 .portfolio-post.sixth {
-  background-image: url('../images/portfolio-thumb-117-1024x1021.jpg');
+  background-image: url('../images/whole-foods.PNG');
 }
 
 .portfolio-link {
