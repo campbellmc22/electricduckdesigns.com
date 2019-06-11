@@ -456,7 +456,7 @@ p {
   opacity: 1;
   -webkit-transition: none 0ms ease;
   transition: none 0ms ease;
-  color: hsla(0, 0%, 100%, 0.54);
+  color: #f62681);
   letter-spacing: 1px;
   text-decoration: none;
 }
@@ -467,7 +467,7 @@ p {
   padding-left: 12px;
   opacity: 1;
   font-family: Karla, sans-serif;
-  color: #f62681;
+  color: #fff;
   font-weight: 500;
 }
 
