@@ -1870,14 +1870,14 @@ html.w-mod-js *[data-ix="show-portfolio-hover"] {
 }
 
 html.w-mod-js *[data-ix="move-down"] {
-      opacity: 0;  
+      opacity: 1;  
   -webkit-transform: translate(0px, 20px);
   -ms-transform: translate(0px, 20px);
   transform: translate(0px, 20px);
 }
 
 html.w-mod-js *[data-ix="move-down-2"] {
-      opacity: 0;  
+      opacity: 1;  
   -webkit-transform: translate(0px, 20px);
   -ms-transform: translate(0px, 20px);
   transform: translate(0px, 20px);
