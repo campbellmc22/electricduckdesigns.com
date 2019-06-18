@@ -244,7 +244,7 @@ p {
   width: 20%;
   height: 3px;
   margin: 15px auto;
-  background-color: #00c2a2;
+  background-color: #f62681;
   text-align: center;
 }
 
@@ -444,7 +444,7 @@ p {
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   font-family: Karla, sans-serif;
-  color: #000;
+  color: #808080;
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 1px;
@@ -456,7 +456,7 @@ p {
   opacity: 1;
   -webkit-transition: none 0ms ease;
   transition: none 0ms ease;
-  color: hsla(0, 0%, 100%, 0.54);
+  color: #f62681;
   letter-spacing: 1px;
   text-decoration: none;
 }
@@ -467,7 +467,7 @@ p {
   padding-left: 12px;
   opacity: 1;
   font-family: Karla, sans-serif;
-  color: #f62681;
+  color: #fff;
   font-weight: 500;
 }
 
@@ -935,11 +935,10 @@ p {
 .logo.white {
   display: block;
   padding-top: 0px;
-  background-image: url('../images/temp-electric-duck.png');
+  /* background-image: url('../images/temp-electric-duck.png'); */
   background-position: 0px 0px;
   background-size: auto;
   font-family: Karla, sans-serif;
-  color: #000;
   font-weight: 800;
   text-align: center;
   text-transform: none;
@@ -1136,7 +1135,7 @@ p {
 
 .social-icons:hover {
   padding: 5px;
-  background-color: #f62681;
+  color: #f62681;
 }
 
 .social-text {
@@ -1343,7 +1342,7 @@ p {
 }
 
 .portfolio-section {
-  margin-bottom: 140px;
+  margin-bottom: 40px;
 }
 
 .portfolio-section.related {
@@ -1871,14 +1870,14 @@ html.w-mod-js *[data-ix="show-portfolio-hover"] {
 }
 
 html.w-mod-js *[data-ix="move-down"] {
-      opacity: 0;  
+      opacity: 1;  
   -webkit-transform: translate(0px, 20px);
   -ms-transform: translate(0px, 20px);
   transform: translate(0px, 20px);
 }
 
 html.w-mod-js *[data-ix="move-down-2"] {
-      opacity: 0;  
+      opacity: 1;  
   -webkit-transform: translate(0px, 20px);
   -ms-transform: translate(0px, 20px);
   transform: translate(0px, 20px);
@@ -2042,7 +2041,7 @@ html.w-mod-js *[data-ix="grow-skills-level-4"] {
     text-align: center;
   }
   .nav-link:hover {
-    background-color: rgba(219, 169, 75, 0.2);
+    color: #f62681;
   }
   .nav-link.w--current {
     display: inline-block;
@@ -2418,7 +2417,7 @@ html.w-mod-js *[data-ix="grow-skills-level-4"] {
     border-radius: 5px;
   }
   .nav-link:hover {
-    background-color: hsla(0, 0%, 100%, 0.09);
+    background-color: #f62681;
   }
   .nav-link.w--current {
     display: block;

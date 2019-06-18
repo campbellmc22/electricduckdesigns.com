@@ -524,6 +524,7 @@ textarea.w-select {
 .w-container .w-row {
   margin-left: -10px;
   margin-right: -10px;
+  margin-bottom: 40px;
 }
 .w-row:before,
 .w-row:after {
