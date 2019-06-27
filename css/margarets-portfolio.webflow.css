@@ -159,14 +159,14 @@ p {
 
 .hero-section {
   position: static;
-  background-image: url('../images/first-electric-duck.svg');
+  background-image: url('../images/first-electric-duck.png');
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   text-align: center;
 }
 
 .hero-section.ppage {
-  background-image: url('../images/first-electric-duck.svg');
+  background-image: url('../images/first-electric-duck.png');
   background-position: 0% 0%, 0px 50%;
 }
 
