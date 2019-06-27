@@ -159,7 +159,6 @@ p {
 
 .hero-section {
   position: static;
-  background-image: url('../images/first-electric-duck.png');
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   text-align: center;
@@ -1548,6 +1547,7 @@ p {
 .mask {
   margin-right: 65px;
   margin-left: 65px;
+  background-image: url('../images/first-electric-duck.png');
 }
 
 .photo-div {
@@ -1630,6 +1630,7 @@ p {
 
 .mask-2 {
   background-color: #000;
+  background-image: url('../images/first-electric-duck.png');
 }
 
 .bold-text {
