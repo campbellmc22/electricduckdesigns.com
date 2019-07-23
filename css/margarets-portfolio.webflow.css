@@ -166,7 +166,8 @@ p {
 
 .hero-section.ppage {
   background-image: url('../images/first-electric-duck.png');
-  background-position: 0% 0%, 0px 50%;
+  max-height: 100%;
+  /* background-position: 0% 0%, 0px 50%; */
 }
 
 .navbar {
@@ -1446,8 +1447,8 @@ p {
 
 .logo-footer {
   display: block;
-  background-image: url('../images/temp-electric-duck.png');
-  background-position: 50% 50%;
+  background-image: url('../images/favicon.png');
+  /* background-position: 50% 50%; */
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: scroll;
