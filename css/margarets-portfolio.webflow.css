@@ -167,7 +167,7 @@ p {
 .hero-section.ppage {
   background-image: url('../images/first-electric-duck.png');
   max-height: 100%;
-  /* background-position: 0% 0%, 0px 50%; */
+  background-position: 0% 0%, 0px 50%;
 }
 
 .navbar {
@@ -1548,7 +1548,6 @@ p {
 .mask {
   margin-right: 65px;
   margin-left: 65px;
-  background-image: url('../images/first-electric-duck.png');
 }
 
 .photo-div {
@@ -1631,7 +1630,6 @@ p {
 
 .mask-2 {
   background-color: #000;
-  background-image: url('../images/first-electric-duck.png');
 }
 
 .bold-text {
