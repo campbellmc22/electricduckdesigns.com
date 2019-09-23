@@ -1425,10 +1425,10 @@ p {
   padding-top: 70px;
   padding-bottom: 70px;
   border-top-style: none;
-  background-color: #f62681;
-  background-image: url('../images/first-electric-duck.png');
-  background-position: 0px 0px;
-  background-size: cover;
+  background-color: #000;
+  background-image: url(../images/first-electric-duck.png);
+  background-position: center;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
