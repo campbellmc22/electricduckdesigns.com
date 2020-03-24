@@ -933,7 +933,6 @@ p {
 .logo.white {
   display: block;
   padding-top: 0px;
-  /* background-image: url('../images/temp-electric-duck.png'); */
   background-position: 0px 0px;
   background-size: auto;
   font-family: Karla, sans-serif;
@@ -1241,7 +1240,7 @@ p {
 }
 
 .portfolio-post.fourth {
-  background-image: url('../images/a-logo.png');
+  background-image: url('../images/alogo.png');
 }
 
 .portfolio-post.fifth {
